@@ -1,4 +1,7 @@
-## Oi, sou Adrielly Isly!
+## Oi, sou Adrielly Isly! 
+
+* Estudante de Análise e Desenvolvimento de Sistemas, na Fatec de Ribeirão Preto.
+
 
 <div align="center">
   <a href="https://github.com/Islyadrielly">
