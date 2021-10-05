@@ -1,6 +1,6 @@
 ## Oi, sou Adrielly Isly! 
 
-* Estudante de Análise e Desenvolvimento de Sistemas, na Fatec de Ribeirão Preto.
+* Estudante de Análise e Desenvolvimento de Sistemas na Fatec de Ribeirão Preto.
 
 
 <div align="center">
