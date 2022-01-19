@@ -18,7 +18,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
        
-    <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888110876484321361/894718009246089256/eu-git.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888110876484321361/894718009246089256/eu-git.gif">
 </div>
 </div>
 
